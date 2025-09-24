@@ -1,0 +1,132 @@
+[
+  {
+    "ndc": "00002323401",
+    "chain": [
+      {
+        "name": "saint",
+        "avg_price": 1.79
+      },
+      {
+        "name": "health",
+        "avg_price": 293.58
+      }
+    ]
+  },
+  {
+    "ndc": "00015066812",
+    "chain": [
+      {
+        "name": "saint",
+        "avg_price": 110.09
+      },
+      {
+        "name": "doctor",
+        "avg_price": 170.97
+      }
+    ]
+  },
+  {
+    "ndc": "00031074998",
+    "chain": [
+      {
+        "name": "health",
+        "avg_price": 149.57
+      },
+      {
+        "name": "doctor",
+        "avg_price": 169.25
+      }
+    ]
+  },
+  {
+    "ndc": "00046110481",
+    "chain": [
+      {
+        "name": "saint",
+        "avg_price": 208.69
+      },
+      {
+        "name": "health",
+        "avg_price": 245.84
+      }
+    ]
+  },
+  {
+    "ndc": "00054027225",
+    "chain": [
+      {
+        "name": "doctor",
+        "avg_price": 410.21
+      },
+      {
+        "name": "health",
+        "avg_price": 529.22
+      }
+    ]
+  },
+  {
+    "ndc": "00078017705",
+    "chain": [
+      {
+        "name": "saint",
+        "avg_price": 77.44
+      },
+      {
+        "name": "doctor",
+        "avg_price": 402.77
+      }
+    ]
+  },
+  {
+    "ndc": "00093752910",
+    "chain": [
+      {
+        "name": "saint",
+        "avg_price": 217.76
+      },
+      {
+        "name": "health",
+        "avg_price": 314.39
+      }
+    ]
+  },
+  {
+    "ndc": "49884024302",
+    "chain": [
+      {
+        "name": "saint",
+        "avg_price": 81.95
+      },
+      {
+        "name": "doctor",
+        "avg_price": 258.32
+      }
+    ]
+  },
+  {
+    "ndc": "55154445200",
+    "chain": [
+      {
+        "name": "saint",
+        "avg_price": 66.56
+      },
+      {
+        "name": "health",
+        "avg_price": 322.74
+      }
+    ]
+  },
+  {
+    "ndc": "63323036410",
+    "chain": [
+      {
+        "name": "health",
+        "avg_price": 158.96
+      },
+      {
+        "name": "doctor",
+        "avg_price": 448.94
+      }
+    ]
+  }
+]
